@@ -1,0 +1,15 @@
+.conda_env/
+.Rhistory
+.vscode
+
+figures
+intermediates
+
+# See README for details on how to obtain required data
+data/perturbations.fst
+data/perturbations-augmented.fst
+data/samples-LNLGISSIF.rds
+data/sib4-climatology-assim-2x25.nc
+data/sib4-climatology-resp-tot-2x25.nc
+data/sib4-hourly-residual-*.nc
+data/spco2_MPI-SOM_FFN_v2020_residual.nc
